@@ -317,6 +317,16 @@
               "community/github",
               "community/faq"
             ]
+          },
+          {
+            "group": "Protocol",
+            "pages": [
+              "community/protocol/overview",
+              "community/protocol/sips",
+              "community/protocol/features",
+              "community/protocol/ecosystem",
+              "community/protocol/support"
+            ]
           }
         ]
       }
